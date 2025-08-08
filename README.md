@@ -10,9 +10,7 @@ this repository contains all the solutions I attempted along with solutions for 
 ---
 
 ## 📁 Repository Structure
-codeforces-solutions/
-<pre><code>
-codeforces-solutions/
+<pre><code>codeforces-solutions/
 ├── code/
 │ ├── 800/
 │ ├── contests/
