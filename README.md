@@ -11,7 +11,14 @@ this repository contains all the solutions I attempted along with solutions for 
 
 ## 📁 Repository Structure
 codeforces-solutions/
-<pre><code>```text codeforces-solutions/ ├── code/ │ ├── 800/ │ ├── contests/ ├── notes/ │ ├── learnings.md │ └── mistakes.md ``` </code></pre>
+<pre><code>
+codeforces-solutions/
+├── code/
+│ ├── 800/
+│ ├── contests/
+├── notes/
+│ ├── learnings.md
+│ └── mistakes.md</code></pre>
 
 - Problems are organized by ratings i.e(800,900,1000, etc) I will add them later as I progress 
 - Notes contain my personal reflections from interesting problems I come across
