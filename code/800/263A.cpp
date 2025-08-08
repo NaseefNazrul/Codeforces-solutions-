@@ -7,7 +7,8 @@ int main() {
     int center_y = 3;
     int pos_x, pos_y = 0; // position of 1
     for (int i = 1; i <= 5; i++) {
-        for (int j = 1; j <= 5; j++) {
+        for (
+            int j = 1; j <= 5; j++) {
             int num;
             cin >> num;
             if (num == 1) {
