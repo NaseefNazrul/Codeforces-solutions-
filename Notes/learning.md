@@ -7,7 +7,8 @@ int main() {
 ```
 ## String methods
 ```C++ 
-- (char)tolower(A)```
+- (char)tolower(A)
+```
 
 
 ---
