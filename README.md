@@ -4,7 +4,7 @@ this repository contains all the solutions I attempted along with solutions for 
 ---
 
 ## 🎯 My Aim 
-- I will try to be consistent with ideally 10 problems a day 
+- I will try to be consistent ideally 5 problems a day 
 - Get better at coding and solving problems in general
 
 ---
